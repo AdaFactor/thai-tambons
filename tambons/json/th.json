@@ -1615,6 +1615,12 @@
       },
       {
         "pid": "301809",
+        "name": "กุดจิก",
+        "amphoe_pid": "3018",
+        "changwat_pid": "30"
+      },
+      {
+        "pid": "301809",
         "name": "นากลาง",
         "latitude": 14.855,
         "longitide": 101.942,
@@ -2002,6 +2008,12 @@
         "name": "ดอนยาวใหญ่",
         "latitude": 15.41,
         "longitide": 102.536,
+        "amphoe_pid": "3024",
+        "changwat_pid": "30"
+      },
+      {
+        "pid": "302405",
+        "name": "โนนแดง",
         "amphoe_pid": "3024",
         "changwat_pid": "30"
       },
